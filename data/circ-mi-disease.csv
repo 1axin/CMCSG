@@ -1,0 +1,784 @@
+BCRC-3,0,miR-182-5p,515,bladder cancer,992
+CBL.11,1,miR-6778-5p,516,colorectal cancer,993
+CDR1as,2,miR-1299,517,triple-negative breast cancer,994
+CDR1as,2,miR-7,518,esophageal squamous cell cancer,995
+CDR1as,2,miR-7,518,gastric cancer,996
+CDR1as,2,miR-1270,519,bladder cancer,992
+CDR1as,2,miR-7,518,osteosarcoma,997
+CDR1as,2,miR-7,518,laryngeal squamous cell carcinoma,998
+CDR1as,2,miR-7-5p,520,nasopharyngeal carcinoma,999
+CDR1as,2,miR-7,518,non-small cell lung cancer,1000
+circ_ANKIB1,3,miR-19b,521,osteosarcoma,997
+circ_ARF3,4,miR-1299,517,osteosarcoma,997
+circ_KATNAL1,5,miR-145-3p,522,prostate cancer,1001
+circ_ORC2,6,miR-19a,523,osteosarcoma,997
+circ_SLC19A1,7,miR-497,524,prostate cancer,1001
+circ_SPECC1,8,miR-526b,525,gastric cancer,996
+circ2174,9,miR-149,526,intrahepatic cholangiocarcinoma,1002
+circ-ABCB10,10,miR-1271,527,epithelial ovarian cancer,1003
+circ-ABCB10,10,miR-1252,528,epithelial ovarian cancer,1003
+circ-ABCB10,10,miR-203,529,epithelial ovarian cancer,1003
+circ-ABCB10,10,miR-340-5p,530,hepatocellular carcinoma,1004
+circ-ABCB10,10,miR-452-5p,531,hepatocellular carcinoma,1004
+circ-ABCB10,10,let-7a-5p,532,breast cancer,1005
+circ-ABCB10,10,miR-556-3p,533,lung cancer,1006
+circABCC2,11,miR-665,534,hepatocellular carcinoma,1004
+circABCC4,12,miR-3186-3p,535,lung adenocarcinoma,1007
+circABCC4,12,miR-1182,536,prostate cancer,1001
+circ-ACACA,13,miR-1183,537,non-small cell lung cancer,1000
+circACAP2,14,miR-29a-3p,538,breast cancer,1005
+circACAP2,14,miR-29b-3p,539,breast cancer,1005
+circ-ADAM9,15,miR-217,540,pancreatic cancer,1008
+circADAMTS13,16,miR-484,541,liver cancer,1009
+circADAMTS13,16,miR-484,541,hepatocellular carcinoma,1004
+circADAMTS14,17,miR-572,542,hepatocellular carcinoma,1004
+circAGFG1,18,miR-195-5p,543,triple-negative breast cancer,994
+circAGFG1,18,miR-370-3p,544,cervical cancer,1010
+circAGFG1,18,miR-203,529,non-small cell lung cancer,1000
+circ-AKT3,19,miR-296-3p,545,renal cell carcinoma,1011
+circ-AKT3,19,miR-516b-5p,546,lung cancer,1006
+circAMOTL1L,20,miR-193a-5p,547,prostate cancer,1001
+circ-ANAPC7,21,miR-181,548,acute myeloid leukemia,1012
+circANKS1B,22,miR-149,526,colorectal cancer,993
+circASAP1,23,miR-326,549,hepatocellular carcinoma,1004
+circASAP1,23,miR-532-5p,550,hepatocellular carcinoma,1004
+circ-ASH2L,24,miR-34a,551,pancreatic ductal adenocarcinoma,1013
+circASS1,25,miR-4443,552,breast cancer,1005
+circATP2B1,26,miR-204-3p,553,clear cell renal cell carcinoma,1014
+circ-ATP8A2,27,miR-433,554,cervical cancer,1010
+circATRNL1,28,miR-23a-3p,555,oral squamous cell carcinoma,1015
+circATXN7,29,miR-4319,556,gastric cancer,996
+circBACH2,30,miR-139-5p,557,papillary thyroid carcinoma,1016
+circ-BANP,31,miR-503,558,lung cancer,1006
+circBIRC6,32,miR-145,559,non-small cell lung cancer,1000
+circBMPR2,33,miR-553,560,breast cancer,1005
+circC3P1,34,miR-4641,561,hepatocellular carcinoma,1004
+circ-CBFB,35,miR-607,562,chronic lymphocytic leukemia,1017
+circCCT3,36,miR-613,563,colorectal cancer,993
+circ-CDC45,37,miR-516b,564,glioma,1018
+circ-CDC45,37,miR-527,565,glioma,1018
+circ-CDYL,38,miR-1275,566,breast cancer,1005
+circ-CDYL,38,miR-892a,567,hepatocellular carcinoma,1004
+circ-CDYL,38,miR-328-3p,568,hepatocellular carcinoma,1004
+circ-CDYL,38,miR-150-5p,569,colon cancer,1019
+circCEP128,39,miR-145-5p,570,bladder cancer,992
+circ-CEP85L,40,miR-942-5p,571,gastric cancer,996
+circCLK3,41,miR-320a,572,cervical cancer,1010
+circ-CSPP1,42,miR-1236-3p,573,ovarian cancer,1020
+circ-DCAF6,43,miR-1256,574,gastric cancer,996
+circ-DCAF6,43,miR-1231,575,gastric cancer,996
+circDENND4C,44,miR-200b,576,breast cancer,1005
+circDENND4C,44,miR-200c,577,breast cancer,1005
+circDENND4C,44,miR-760,578,colon cancer,1019
+circ-DICER1,45,miR-103a-3p,579,glioma,1018
+circ-DICER1,45,miR-382-5p,580,glioma,1018
+circDOCK1,46,hsa-miR-132-3p,581,bladder cancer,992
+circDOCK1,46,miR-196a-5p,582,oral squamous cell carcinoma,1015
+circDYNC1H1,47,miR-140-5p,583,hepatocellular carcinoma,1004
+circEHMT1,48,miR-1233-3p,584,breast cancer,1005
+circEIF4G2,49,miR-218,585,cervical cancer,1010
+circ-EIF4G3,50,miR-335,586,gastric cancer,996
+circ-ENO1,51,miR-22-3p,587,lung adenocarcinoma,1007
+circEPSTI1,52,miR-892b,588,osteosarcoma,997
+circEPSTI1,52,miR-942,589,ovarian cancer,1020
+circ-ERBB2,53,miR-503,558,gastric cancer,996
+circ-ERBB2,53,miR-637,590,gastric cancer,996
+circ-EZH2,54, miR-1265,591,glioma,1018
+circFAM114A2,55,miR-762,592,urothelial carcinoma of bladder,1021
+circ-FAM53B,56,miR-646,593,ovarian cancer,1020
+circ-FAM53B,56,miR-647,594,ovarian cancer,1020
+circFARSA,57,miR-326,549,non-small cell lung cancer,1000
+circFARSA,57,miR-330-5p,595,non-small cell lung cancer,1000
+circFAT1,58,miR-375,596,osteosarcoma,997
+circFBLIM1,59,miR-346,597,hepatocellular cancer,1022
+circFGFR1,60,miR-381-3p,598,non-small cell lung cancer,1000
+circFGFR3,61,miR-22-3p,587,non-small cell lung cancer,1000
+circFNDC3B,62,miR-1178-3p,599,bladder cancer,992
+circFOXK2,63,miR-942,589,pancreatic ductal adenocarcinoma,1013
+circ-FOXM1,64,miR-143-3p,600,melanoma,1023
+circ-FOXM1,64,miR-614,601,non-small cell lung cancer,1000
+circ-FOXM1,64,miR-1179,602,papillary thyroid cancer,1024
+circ-Foxo3,65,miR-138-5p,603,glioblastoma,1025
+circ-Foxo3,65,miR-432-5p,604,glioblastoma,1025
+circ-Foxo3,65,miR-155,605,non-small cell lung cancer,1000
+circ-Foxo3,65,miR-191-5p,606,bladder cancer,992
+circ-FOXP1,66,miR-875-3p,607,hepatocellular carcinoma,1004
+circ-FOXP1,66, miR-421,608,hepatocellular carcinoma,1004
+circFUT8,67,miR-570-3p,609,bladder cancer,992
+circGFRA1,68,miR-449a,610,ovarian cancer,1020
+circGFRA1,68,miR-188-3p,611,Lung cancer,1006
+circGUCY1A2,69,miR-143,612,prostate cancer,1001
+circHECTD1,70,miR-1256,574,gastric cancer,996
+circHIAT1,71,miR-3171,613,hepatocellular carcinoma,1004
+circHIAT1,71,miR-21,614,gastric cancer,996
+circ-HIPK2,72,miR-124-3p,615,acute promyelocytic leukemia,1026
+hsa_circ_0000284,73,miR-7,518,colorectal cancer,993
+circHIPK3,74,miR-124,616,lung cancer,1006
+circHIPK3,74,miR-124,616,oral squamous cell carcinoma,1015
+circHIPK3,74,miR-654,617,glioma,1018
+hsa_circ_0000284,73, miR-124,618,hepatocellular carcinoma,1004
+circHIPK3,74,miR-124,616,gallbladder cancer,1027
+circHIPK3,74,miR-4288,619,nasopharyngeal carcinoma,999
+circHIPK3,74,miR-193a-3p,620,prostate cancer,1001
+circHIPK3,74,miR-330-5p,595,pancreatic cancer,1008
+circHIPK3,74,miR-107,621,gastric cancer,996
+circ-HOMER1,75,miR-1322,622,hepatocellular carcinoma,1004
+circ-IARS,76,miR-122,623,pancreatic cancer,1008
+circIRAK3,77,miR-3607,624,breast cancer,1005
+circ-ITCH,78,miR-214,625,triple-negative breast cancer,994
+circ-ITCH,78,miR-17,626,triple-negative breast cancer,994
+circ-ITCH,78,miR-10a,627,epithelial ovarian cancer,1003
+circ-ITCH,78,miR-22,628,osteosarcoma,997
+circ-ITCH,78,miR-145,559,ovarian carcinoma,1028
+circ-ITCH,78,miR-17,626,bladder cancer,992
+circ-ITCH,78,miR-224,629,bladder cancer,992
+circ-ITCH,78,miR-17-5p,630,prostate cancer,1001
+circ-ITCH,78,miR-214,625,glioma,1018
+circ-ITCH,78,miR-93-5p,631,cervical cancer,1010
+circITGA7,79,miR-370-3p,544,colorectal cancer,993
+circKDM4C,80,miR-548p,632,breast cancer,1005
+circKIF4A,81,miR-139-3p,633,glioma,1018
+circKIF4A,81,miR-375,596,triple-negative breast cancer,994
+circ-LAMP1,82,miR-615-5p,634,T-cell lymphoblastic lymphoma,1029
+circLARP4,83,miR-513b-5p,635,ovarian cancer,1020
+circLARP4,83,miR-424,636,osteosarcoma,997
+circLARP4,83,miR-761,637,hepatocellular carcinoma,1004
+circ-LDLRAD3,84,miR-137-3p,638,pancreatic cancer,1008
+circLMTK2,85,miR-183,639,prostate cancer,1001
+circLPAR1,86,miR坼762,640,bladder cancer,992
+circMAN2B2,87,miR-1275,566,lung cancer,1006
+circMAN2B2,87,miR-1205,641,glioma,1018
+circMAN2B2,87, miR-217,642,hepatocellular carcinoma,1004
+circMAT2B,88,miR-338-3p,643,hepatocellular carcinoma,1004
+circMLLT10,89,miR-509-3-5p,644,gastric cancer,996
+circMMP9,90,miR-124,616,glioblastoma multiforme,1030
+circMMP9,90,miR-1265,645,osteosarcoma,997
+circMTDH.4,91,miR-630,646,non-small cell lung cancer,1000
+circMTO1,92,miR-221,647,bladder cancer,992
+circMTO1,92,miR-6893,648,cervical cancer,1010
+circMTO1,92,miR-92,649,glioblastoma,1025
+circMTO1,92,miR-9,650,renal cell carcinoma,1011
+circMTO1,92,miR-19b-3p,651,rectal cancer,1031
+circMTO1,92,miR-17-5p,630,prostate cancer,1001
+circMTO1,92,miR-3200-5p,652,gastric cancer,996
+circMYC,93,miR-1236,653,melanoma,1023
+circMYLK,94,miR-362-3p,654,hepatocellular carcinoma,1004
+circMYO10,95,miR-370-3p,544,osteosarcoma,997
+circMYO9B,96,miR-4316,655,breast cancer,1005
+circNASP,97,miR-1253,656,osteosarcoma,997
+circNEK6,98,miR-370-3p,544,thyroid cancer,1032
+circNFIX,99,miR-34a-5p,657,glioma,1018
+circ-NOTCH1,100,miR-449c-5p,658,gastric cancer,996
+circNR3C1,101,miR-27a-3p,659,bladder cancer,992
+circNRIP1,102,miR-505,660,renal carcinoma,1033
+circNRIP1,102,miR-149-5p,661,gastric cancer,996
+circ-NSD2,103,miR-199b-5p,662,colorectal cancer,993
+circNT5E,104,miR-422a,663,glioblastoma,1025
+circNUP214,105,miR-145,559,papillary thyroid cancer,1024
+circP4HB,106,miR-133a-5p,664,non-small cell lung carcinoma,1034
+circ-PAX2,107,miR-186,665,lung squamous cell carcinoma,1035
+circPCNX,108,miR-506,666,hepatocellular carcinoma,1004
+circPCNXL2,109,miR-153,667,clear cell renal cell carcinoma,1014
+circ-PDE8A,110,miR-338,668,pancreatic cancer,1008
+circPDSS1,111,miR-186-5p,669,gastric cancer,996
+circ-PGAM1,112,miR-542-3p,670,epithelial ovarian cancer,1003
+circPICALM,113,miR-1265,645,bladder cancer,992
+circPIP5K1A,114,miR-1273a,671,colon cancer,1019
+circ-PITX1,115,miR-379-5p,672,glioblastoma,1025
+circ-PITX1,115,miR-329-3p,673,glioma,1018
+circ-PKD2,116,miR-204-3p,553,oral squamous cell carcinoma,1015
+circPLEKHM3,117,miR-9,650,ovarian cancer,1020
+circPLK1,118,miR-296-5p,674,triple-negative breast cancer,994
+circ-POSTN,119,miR-1205,641,glioma,1018
+circ-PRKCI,120,miR-545,675,hepatocellular carcinoma,1004
+circ-PRKCI,120,miR-3680-3p,676,esophageal squamous cell carcinoma,1036
+circ-PRKCI,120,miR-545,675,lung adenocarcinoma,1007
+circ-PRKCI,120,miR-589,677,lung adenocarcinoma,1007
+circ-PRMT5,121,miR-30c,678,urothelial carcinoma of bladder,1021
+circ-PRMT5,121,miR-145,559,gastric cancer,996
+circ-PRMT5,121,miR-1304,679,gastric cancer,996
+circ-PRMT5,121,miR-377,680,non-small cell lung cancer,1000
+circ-PRMT5,121,miR-382,681,non-small cell lung cancer,1000
+circ-PRMT5,121,miR-498,682,non-small cell lung cancer,1000
+circ-PRMT5,121,miR-188-5p,683,hepatocellular carcinoma,1004
+circ-PRMT5,121,miR-377,680,colorectal cancer,993
+circPRRC2A,122,miR-514a-5p,684,renal cell carcinoma,1011
+circPSMC3,123,miR-296-5p,674,gastric cancer,996
+circPTGR1,124,miR-449a,610,hepatocellular carcinoma,1004
+circPTN,125,miR-145-5p,570,glioma,1018
+circPTN,125,miR-330-5p,595,glioma,1018
+circPTPRA,126,miR-96-5p,685,non-small cell lung cancer,1000
+circPTPRA,126,miR-636,686,bladder cancer,992
+circ-PTPRZ1,127,miR-1261,687,glioma,1018
+circPUM1,128,miR-326,549,lung adenocarcinoma,1007
+circPUM1,128,miR-615-5p,634,ovarian cancer,1020
+circPUM1,128,miR-6753-5p,688,ovarian cancer,1020
+circPVT1,129,miR-125b,689,oral squamous cell carcinoma,1015
+circPVT1,129,miR-145,559,colorectal cancer,993
+circPVT1,129,miR-125b,689,non-small cell lung cancer,1000
+circPVT1,129,miR-124-3p,615,gastric cancer,996
+circPVT1,129,miR-4663,690,esophageal carcinoma,1037
+circPVT1,129,miR-145-5p,570,lung adenocarcinoma,1007
+circPVT1,129,miR-497,524,lung cancer,1006
+circPVT1,129,miR-205-5p,691,osteosarcoma,997
+circ-RAD23B,130,miR-593-3p,692,non-small cell lung cancer,1000
+circ-RAD23B,130,miR-653-5p,693,non-small cell lung cancer,1000
+circ-RAD23B,130,miR-5095,694,esophageal cancer,1038
+circ-RanGAP1,131,miR-877-3p,695,gastric cancer,996
+circRAPGEF5,132,miR-198,696,papillary thyroid cancer,1024
+circRBM23,133,miR-138 ,697,hepatocellular carcinoma,1004
+circRBMS3,134,miR-153,667,gastric cancer,996
+circRGNEF,135,miR-548,698,bladder cancer,992
+circRHOBTB3,136,miR-654-3p,699,gastric cancer,996
+circRhoC,137,miR-302e,700,ovarian cancer,1020
+circRHOT1,138,miR-26b,701,pancreatic cancer,1008
+circRHOT1,138,miR-125a,702,pancreatic cancer,1008
+circRHOT1,138,miR-330,703,pancreatic cancer,1008
+circRHOT1,138,miR-382,681,pancreatic cancer,1008
+circRIP2,139,miR-1305,704,bladder cancer,992
+circRNA_000284,140,miR-506,666,cervical cancer,1010
+circRNA_000543,141,miR-9,650,nasopharyngeal carcinoma,999
+circRNA_000911,142,miR-449a,610,breast cancer,1005
+circRNA_001275,143,miR-370-3p,544,esophageal cancer,1038
+circRNA_001569,144,miR-145,559,gastric cancer,996
+circRNA_0047905,145,miR-4516,705,gastric cancer,996
+circRNA_0047905,145,miR-1227-5p,706,gastric cancer,996
+circRNA_0072309,146,miR-665,534,liver cancer,1009
+circRNA_0084043,147,miR-153-3p,707,malignant melanoma,1039
+circRNA_036186,148,miR-193b-3p,708,head and neck squamous cell carcinoma,1040
+circRNA_100146,149,miR-361-3p,709,non-small cell lung cancer,1000
+circRNA_100146,149,miR-615-5p,634,non-small cell lung cancer,1000
+circRNA_100284,150,miR-217,540,hepatic carcinoma,1041
+circRNA_100290,151,miR-516b,564,colorectal cancer,993
+circRNA_100290,151,miR-136-5p,710,laryngeal squamous cell carcinoma,998
+circRNA_100290,151,miR-378a,711,oral squamous cell carcinoma,1015
+circRNA_100876,152,miR-136,712,osteosarcoma,997
+circRNA_101368,153,miR-200a,713,hepatocellular carcinoma,1004
+circRNA_101505,154,miR-103,714,hepatocellular carcinoma,1004
+circRNA_104433,155,miR-497-5p,715,gastric cancer,996
+circRNA_104718,156,miR-218-5p,716,hepatocellular carcinoma,1004
+circRNA_5692,157,miR-328-5p,717,hepatocellular carcinoma,1004
+circRNA_8924,158,miR-518d-5p,718,cervical cancer,1010
+circRNA-ACAP2,159,hsa-miR-21-5p,719,colon cancer,1019
+circRNA-CER,160,miR-136,712,breast cancer,1005
+circRNF13,161,miR-93-5p,631,lung adenocarcinoma,1007
+circRPMS1,162,miR-203,529,nasopharyngeal carcinoma,999
+circRPMS1,162,miR-31,720,nasopharyngeal carcinoma,999
+circRPMS1,162,miR-451,721,nasopharyngeal carcinoma,999
+circSCAF11,163,miR-421,722,glioma,1018
+circ-SCARB1,164,miR-510-5p,723,oral squamous cell carcinoma,1015
+circSEPT9,165,miR-637,590,triple-negative breast cancer,994
+circ-SFMBT2,166,miR-182-5p,515,gastric cancer,996
+circSLC3A2,167,miR-490-3p,724,hepatocellular carcinoma,1004
+circSLC7A6,168, miR-21,725,prostate cancer,1001
+circSLC8A1,169,miR-130b,726,bladder cancer,992
+circSLC8A1,169,miR-494,727,bladder cancer,992
+circ-SMAD2,170,miR-629,728,hepatocellular carcinoma,1004
+circSMARCA5,171,miR-19b-3p,651,non-small cell lung cancer,1000
+circSMO742,172,miR-338-3p,643,glioma,1018
+circ-SOX4,173,miR-1270,519,lung adenocarcinoma,1007
+circTADA2A-E6,174,miR-203a-3p,729,triple-negative breast cancer,994
+circTCF25,175,miR-206,730,osteosarcoma,997
+circ-TCF4.85,176,miR-486-5p,731,hepatocellular carcinoma,1004
+circTNFRSF21,177,miR-1227,732,endometrial carcinoma,1042
+circTP63,178,miR-873-3p,733,lung squamous cell carcinoma,1035
+circTRIM33-12,179,miR-191,734,hepatocellular carcinoma,1004
+circ-TTBK2,180,miR-761,637,glioma,1018
+circUBAP2,181,miR-422a,663,esophageal squamous cell carcinoma,1036
+circ-UBE2D2,182,miR-1236,653,breast Cancer,1005
+circ-UBE2D2,182,miR-1287,735,breast Cancer,1005
+circUBXN7,183,miR-1247-3p,736,bladder cancer,992
+circUVRAG,184,miR-223,737,bladder cancer,992
+circVANGL1,185,miR-1184,738,bladder cancer,992
+circVANGL1,185,miR-195,739,non-small cell lung cancer,1000
+circ-VRK1,186,miR-624-3p,740,esophageal squamous cell carcinoma,1036
+circWHSC1,187,miR-145,559,ovarian cancer,1020
+circWHSC1,187,miR-1182,536,ovarian cancer,1020
+circYAP1,188,miR-367-5p,741,gastric cancer,996
+circ-ZEB1.33,189,miR-200a-3p,742,hepatocellular carcinoma,1004
+circZFP57,190,miR-200,743,prostate cancer,1001
+circZFR,191,miR-130a,744,gastric cancer,996
+circZFR,191,miR-107,621,gastric cancer,996
+circZFR,191,miR-1261,687,papillary thyroid cancer,1024
+circZFR,191,miR-3619-5p,745,hepatocellular carcinoma,1004
+circZFR,191,miR-377,680,bladder cancer,992
+circ-ZKSCAN1,192,miR-1178-3p,599,bladder cancer,992
+circ-ZNF264,193,miR-4493,746,glioma,1018
+circ-ZNF609,194,miR-186-5p,669,prostate cancer,1001
+circ-ZNF609,194,miR-150,747,colorectal cancer,993
+circ-ZNF652,195,miR-205,748,renal carcinoma,1033
+ciRS-133,196,miR-133,749,gastric cancer,996
+ciRs-6,197,miR-653,750,bladder cancer,992
+cMras,198,miR-567,751,lung adenocarcinoma,1007
+cTFRC,199,miR-107,621,bladder cancer,992
+hsa_ circRNA_000479,200,miR-4753,752,triple-negative breast cancer,994
+hsa_ circRNA_000479,200,miR-6809,753,triple-negative breast cancer,994
+hsa_circ_0137439,201,miR-142-5p,754,bladder cancer,992
+hsa_circ_0000003,202,miR-338-3p,643,non-small cell lung cancer,1000
+hsa_circ_0000092,203,miR-338-3p,643,hepatocellular carcinoma,1004
+hsa_circ_0000140,204,miR-31,720,oral squamous cell carcinoma,1015
+hsa_circ_0000144,205,miR-217,540,bladder cancer,992
+hsa_circ_00001666,206,hsa-miR-1229,755,colon cancer,1019
+hsa_circ_0000177,207,miR-638,756,glioma,1018
+hsa_circ_0000190,208,miR-767-5p,757,multiple myeloma,1043
+hsa_circ_0000190,208,miR-767-5p,757,osteosarcoma,997
+hsa_circ_0000199,209,miR-198,696,gastric cancer,996
+hsa_circ_0000204,210,miR-191,734,hepatocellular carcinoma,1004
+hsa_circ_0000218,211,miR-139-3p,633,colorectal cancer,993
+hsa_circ_0000263,212,miR-150-5p,569,cervical cancer,1010
+hsa_circ_0000267,213,miR-503-5p,758,gastric cancer,996
+hsa_circ_0000291,214,miR-183,639,gastric cancer,996
+hsa_circ_0000376,215,hsa-miR-375,759,gastric cancer,996
+hsa_circ_0000408,216,miR-136-5p,710,lung squamous cell carcinoma,1035
+hsa_circ_0000467,217,miR-326-3p,760,gastric cancer,996
+hsa_circ_0000488,218,miR-496,761,acute myeloid leukemia,1012
+hsa_circ_0000495,219,miR-488-3p,762,head and neck squamous cell carcinoma,1040
+hsa_circ_0000515,220,miR-326,549,cervical cancer,1010
+hsa_circ_0000523,221,miR-31,720,colorectal cancer,993
+hsa_circ_0000567,222,miR-421,722,hepatocellular carcinoma,1004
+hsa_circ_0000592,223,miR-139-3p,633,gastric cancer,996
+hsa_circ_0000592,223,miR-200,743,gastric cancer,996
+hsa_circ_0000592,223,miR-367-3p,763,gastric cancer,996
+hsa_circ_0000592,223,miR-33a-3p,764,gastric cancer,996
+hsa_circ_0000654,224,miR-149-5p,661,esophageal squamous cell cancer,995
+hsa_circ_0000673,225,miR-532-5p,550,gastric cancer,996
+hsa_circ_0000673,225,miR-767-3p,765,hepatocellular carcinoma,1004
+hsa_circ_0000735,226,miR-1179,602,non-small cell lung cancer,1000
+hsa_circ_0000735,226,miR-1182,536,non-small cell lung cancer,1000
+hsa_circ_0000792,227,miR-375,596,lung adenocarcinoma,1007
+hsa_circ_0000799,228,miR-31-5p,766,bladder cancer,992
+hsa_circ_0000977,229,miR-153,667,pancreatic cancer,1008
+hsa_circ_0000993,230,miR-214-5p,767,gastric cancer,996
+hsa_circ_0001038,231,miR-337-3p,768,cervical cancer,1010
+hsa_circ_0001073,232,miR-626,769,bladder cancer,992
+hsa_circ_0001098,233,miR-3942-3p,770,breast cancer,1005
+hsa_circ_0001098,233,miR-4760-3p,771,breast cancer,1005
+hsa_circ_0001105,234,miR-766,772,osteosarcoma,997
+hsa_circ_0001178,235,miR-382,681,hepatocellular carcinoma,1004
+hsa_circ_0001206,236,miR-1285-5p,773,prostate cancer,1001
+hsa_circ_0001313,237,miR-338-3p,643,colon cancer,1019
+hsa_circ_0001361,238,miR-491-5p ,774,bladder cancer,992
+hsa_circ_0001368,239,miR-6506-5p,775,gastric cancer,996
+hsa_circ_0001427,240,miR-181c-5p,776,castration-resistant prostate cancer,1044
+hsa_circ_0001429,241,miR-205-5p,691,bladder cancer,992
+hsa_circ_0001445,242,miR-620,777,cervical cancer,1010
+hsa_circ_0001451,243,miR-197-3p,778,triple-negative breast cancer,994
+hsa_circ_0001461,244,miR-548g,779,gastric cancer,996
+hsa_circ_0001546,245,miR-421,722,gastric cancer,996
+hsa_circ_0001564,246,miR-29c-3p,780,osteosarcoma,997
+hsa_circ_0001649,247,miR-331-3p,781,non-small cell lung cancer,1000
+hsa_circ_0001649,247,miR-338-5p,782,non-small cell lung cancer,1000
+hsa_circ_0001649,247,miR-127-5p,783,hepatocellular carcinoma,1004
+hsa_circ_0001649,247,miR-612,784,hepatocellular carcinoma,1004
+hsa_circ_0001649,247,miR-4688,785,hepatocellular carcinoma,1004
+hsa_circ_0001658,248,miR-382-5p,580,osteosarcoma,997
+hsa_circ_0001658,248,hsa-miR-375,759,gastric cancer,996
+hsa_circ_0001721,249,miR-569,786,osteosarcoma,997
+hsa_circ_0001721,249,miR-599,787,osteosarcoma,997
+hsa_circ_0001725,250,miR-150-5p,569,gastric cancer,996
+hsa_circ_0001727,251,miR-330-5p,595,non-small cell lung cancer,1000
+hsa_circ_0001742,252,miR-431-5p,788,tongue squamous cell carcinoma,1045
+hsa_circ_0001772,253,miR-149,526,gastric cancer,996
+hsa_circ_0001785,254,miR-1200,789,osteosarcoma,997
+hsa_circ_0001801,255,miR-628-5p,790,glioblastoma,1025
+hsa_circ_0001801,255,miR-224-5p,791,glioma,1018
+hsa_circ_0001846,256,miR-661,792,triple-negative breast cancer,994
+hsa_circ_0001897,257,miR-150-5p,569,gastric cancer,996
+hsa_circ_0001900,258,miR-328-5p,717,colorectal cancer,993
+hsa_circ_0001946,259,miR-135a-5p,793,lung adenocarcinoma,1007
+hsa_circ_0001946,259,miR-671-5p,794,glioblastoma,1025
+hsa_circ_0001955,260,miR-145-5p,570,hepatocellular carcinoma,1004
+hsa_circ_0001955,260,miR-516a-5p,795,hepatocellular carcinoma,1004
+hsa_circ_0001971,261,miR-194,796,oral squamous cell carcinoma,1015
+hsa_circ_0001971,261,miR-204,797,oral squamous cell carcinoma,1015
+hsa_circ_0002052,262,miR-382,681,osteosarcoma,997
+hsa_circ_0002142,263,miR-625-5p,798,glioma,1018
+hsa_circ_0002185,264,miR-526b-5p,799,oral squamous cell carcinoma,1015
+hsa_circ_0002211,265,miR-31-5p,766,colorectal cancer,993
+hsa_circ_0002346,266,miR-93,800,lung adenocarcinoma,1007
+hsa_circ_0002346,266,miR-182,801,lung adenocarcinoma,1007
+hsa_circ_0002453,267,miR-208a,802,triple-negative breast cancer,994
+hsa_circ_0002453,267,miR-3164,803,triple-negative breast cancer,994
+hsa_circ_0002577,268,miR-197,804,endometrial carcinoma,1042
+hsa_circ_0003258,269,miR-203,529,hepatocellular carcinoma,1004
+hsa_circ_0003258,269,miR-502-5p,805,hepatocellular carcinoma,1004
+hsa_circ_0003645,270,miR-1179,602,non-small cell lung cancer,1000
+hsa_circ_0003855,271,miR-145-5p,570,gastric cancer,996
+hsa_circ_0003998,272,miR-326,549,lung adenocarcinoma,1007
+hsa_circ_0003998,272,miR-326,549,non-small cell lung cancer,1000
+hsa_circ_0004015,273,miR-1183,537,non-small cell lung cancer,1000
+hsa_circ_0004214,274,miR-485-5p,806,cervical cancer,1010
+hsa_circ_0004390,275,miR-198,696,ovarian cancer,1020
+hsa_circ_0004458,276,miR-885-5p,807,papillary thyroid carcinoma,1016
+hsa_circ_0004771,277,miR-339-5p,808,esophageal squamous cell cancer,995
+hsa_circ_0004771,277,miR-653,750,breast cancer,1005
+hsa_circ_0004846,278,miR-1244,809,osteosarcoma,997
+hsa_circ_0004928,279,hsa-miR-375,759,gastric cancer,996
+hsa_circ_0005027,280,hsa-miR-548c-3p,810,hypopharyngeal cancer,1046
+hsa_circ_0005075,281,miR-335,586,hepatocellular carcinoma,1004
+hsa_circ_0005100,282,miR-1182,536,colorectal cancer,993
+hsa_circ_0005198,283,miR-1294,811,glioma,1018
+hsa_circ_0005230,284,miR-618,812,breast cancer,1005
+hsa_circ_0005230,284,miR-1238,813,cholangiocarcinoma,1047
+hsa_circ_0005230,284,miR-1299,517,cholangiocarcinoma,1047
+hsa_circ_0005273,285,miR-1183,537,papillary thyroid carcinoma,1016
+hsa_circ_0005576,286,miR-153-3p,707,cervical cancer,1010
+hsa_circ_0005963,287,miR-122,623,colon cancer,1019
+hsa_circ_0006168,288,miR-100,814,esophageal squamous cell cancer,995
+hsa_circ_0006168,288,miR-384,815,esophageal cancer,1038
+hsa_circ_0006215,289,miR-378a-3p,816,pancreatic cancer,1008
+hsa_circ_0006282,290,miR-155,605,gastric cancer,996
+hsa_circ_0006404,291,miR-29a-3p,538,prostate cancer,1001
+hsa_circ_0006427,292,miR-6783-3p,817,lung adenocarcinoma,1007
+hsa_circ_0006528,293,miR-7-5p,520,breast cancer,1005
+hsa_circ_0006848,294,miR-329-5p,818,gastric cancer,996
+hsa_circ_0006916,295,miR-522-3p,819,lung cancer,1006
+hsa_circ_0006948,296,miR-490-3p,724,esophageal squamous cell cancer,995
+hsa_circ_0006990,297,hsa-miR-101-3p,820,colorectal cancer,993
+hsa_circ_0007059,298,miR-378,821,lung cancer,1006
+hsa_circ_0007255,299,miR-335-5p,822,breast cancer,1005
+hsa_circ_0007294,300,miR-148a-3p,823,triple-negative breast cancer,994
+hsa_circ_0007294,300,miR-152-3p,824,triple-negative breast cancer,994
+hsa_circ_0007385,301,miR-181,548,non-small cell lung cancer,1000
+hsa_circ_0007534,302,miR-498,682,cervical cancer,1010
+hsa_circ_0007534,302,miR-613,563,colorectal cancer,993
+hsa_circ_0007534,302,miR-593,825,breast cancer,1005
+hsa_circ_0007534,302,miR-761,637,glioma,1018
+hsa_circ_0007534,302,miR-892b,588,pancreatic ductal adenocarcinoma,1013
+hsa_circ_0007534,302,miR-625 ,826,pancreatic ductal adenocarcinoma,1013
+hsa_circ_0007843,303,miR-518c-5p ,827,colon cancer,1019
+hsa_circ_0007874,304,miR-760,578,ovarian cancer,1020
+hsa_circ_0008039,305,miR-515-5p,828,breast cancer,1005
+hsa_circ_0008106,306,miR-16-5p,829,gastric cancer,996
+hsa_circ_0008225,307,miR-890,830,glioma,1018
+hsa_circ_0008234,308,miR-370,831,gallbladder cancer,1027
+hsa_circ_0008287,309,hsa-miR-548c-3p,810,hypopharyngeal cancer,1046
+hsa_circ_0008305,310,miR-429,832,non-small cell lung cancer,1000
+hsa_circ_0008305,310,miR-200b-3p,833,non-small cell lung cancer,1000
+hsa_circ_0008309,311,miR-1290,834,oral squamous cell carcinoma,1015
+hsa_circ_0008309,311,miR-136-5P,710,oral squamous cell carcinoma,1015
+hsa_circ_0008309,311,miR-382-5P,580,oral squamous cell carcinoma,1015
+hsa_circ_0008365,312,miR-375,596,gastric carcinoma,1048
+hsa_circ_0008450,313,miR-577,835,nasopharyngeal carcinoma,999
+hsa_circ_0008450,313,miR-548p,632,hepatocellular carcinoma,1004
+hsa_circ_0008549,314,miR-136-5p,710,gastric cancer,996
+hsa_circ_0008717,315,miR-1252,528,non-small cell lung cancer,1000
+hsa_circ_0008792,316,hsa-miR-711,836,osteosarcoma,997
+hsa_circ_000926,317,miR-411,837,renal cell carcinoma,1011
+hsa_circ_0009361,318,miR-582,838,colorectal cancer,993
+hsa_circ_0009362,319,miR-141-5p,839,triple-negative breast cancer,994
+hsa_circ_0009910,320,miR-20a-5p,840,acute myeloid leukemia,1012
+hsa_circ_0009910,320,miR-449a,610,osteosarcoma,997
+hsa_circ_0009910,320,miR-335-5p,822,hepatocellular carcinoma,1004
+hsa_circ_0011385,321,miR-361-3p,709,thyroid cancer,1032
+hsa_circ_0011780,322,miR-544a,841,non-small cell lung cancer,1000
+hsa_circ_0012129,323,miR-661,792,glioma,1018
+hsa_circ_0012342,324,let-7e-5p,842,mucoepidermoid carcinoma,1049
+hsa_circ_0012342,324,miR-107,621,mucoepidermoid carcinoma,1049
+hsa_circ_0012342,324,miR-214-3p,843,mucoepidermoid carcinoma,1049
+hsa_circ_0012384,325,miR-302e,700,non-small cell lung cancer,1000
+hsa_circ_0012673,326,miR-22,628,lung adenocarcinoma,1007
+hsa_circ_0012673,326,miR-320a,572,lung cancer,1006
+hsa_circ_0014130,327,hsa-miR-566,844,lung adenocarcinoma,1007
+hsa_circ_0014130,327,miR-600,845,non-small cell lung cancer,1000
+hsa_circ_0014130,327,miR-671-5p,794,gastric cancer,996
+hsa_circ_0014359,328,miR-153,667,glioma,1018
+hsa_circ_001569,329,miR-411-5p,846,hepatocellular carcinoma,1004
+hsa_circ_001569,329,miR-432-5p,604,hepatocellular carcinoma,1004
+hsa_circ_0015756,330,miR-1250-3p,847,hepatoblastoma,1050
+hsa_circ_0015756,330,miR-7,518,hepatocellular carcinoma,1004
+hsa_circ_0015758,331,miR-149,526,glioma,1018
+hsa_circ_001653,332,miR-377,680,pancreatic ductal adenocarcinoma,1013
+hsa_circ_0016760,333,miR-1287,735,non-small cell lung cancer,1000
+hsa_circ_0016788,334,miR-486,848,hepatocellular carcinoma,1004
+hsa_circ_0017247,335,miR-145,559,melanoma,1023
+hsa_circ_001783,336,miR-200c-3p,849,breast cancer,1005
+hsa_circ_0018069,337,miR-23c,850,bladder cancer,992
+hsa_circ_0018069,337,miR-34a-5p,657,bladder cancer,992
+hsa_circ_0018069,337,miR-181b-5p,851,bladder cancer,992
+hsa_circ_0018069,337,miR-454-3p,852,bladder cancer,992
+hsa_circ_0018069,337,miR-3666,853,bladder cancer,992
+hsa_circ_001895,338,miR-296-5p,674,clear cell renal cell carcinoma,1014
+hsa_circ_0020123,339,miR-488-3p,762,non-small cell lung cancer,1000
+hsa_circ_0020732,340,miR-665,534,lung adenocarcinoma,1007
+hsa_circ_0021093,341,miR-766-3p,854,hepatocellular carcinoma,1004
+hsa_circ_002136,342,miR-138-5p,603,glioma,1018
+hsa_circ_0023303,343,miR-646,593,laryngeal squamous cell carcinoma,998
+hsa_circ_0023404,344,miR-5047,855,cervical cancer,1010
+hsa_circ_0025033,345,miR-1231,575,papillary thyroid cancer,1024
+hsa_circ_0025033,345,miR-1304,679,papillary thyroid cancer,1024
+hsa_circ_0025036,346,miR-198,696,lung adenocarcinoma,1007
+hsa_circ_0025039,347,miR-198,696,malignant melanoma,1039
+hsa_circ_0025202,348,miR-182-5p,515,breast cancer,1005
+hsa_circ_0026134,349,miR-1256,574,non-small cell lung cancer,1000
+hsa_circ_0026134,349,miR-1287,735,non-small cell lung cancer,1000
+hsa_circ_0026344,350,miR-21,614,colorectal cancer,993
+hsa_circ_0026344,350,miR-31,720,colorectal cancer,993
+hsa_circ_0027599,351,miR-101-3p,856,gastric cancer,996
+hsa_circ_0030235,352,miR-1253,656,pancreatic ductal adenocarcinoma,1013
+hsa_circ_0030235,352,miR-1294,811,pancreatic ductal adenocarcinoma,1013
+hsa_circ_0031288,353,miR-139-3p,633,cervical cancer,1010
+hsa_circ_0032627,354,miR-502-5p,805,gastric cancer,996
+hsa_circ_0033550,355,miR-942-5p,571,cervical cancer,1010
+hsa_circ_0034642,356,miR-1205,641,glioma,1018
+hsa_circ_0035483,357,hsa-miR-335,857,renal clear cell carcinoma,1051
+hsa_circ_0037251,358,miR-1229-3p,858,glioma,1018
+hsa_circ_0037655,359,miR-214,625,glioma,1018
+hsa_circ_0039411,360,miR-136-5p,710,hepatocellular carcinoma,1004
+hsa_circ_0039569,361,miR-542-3p,670,endometrial cancer,1052
+hsa_circ_0042666,362,miR-223,737,laryngeal squamous cell carcinoma,998
+hsa_circ_0043278,363,miR-520f,859,non-small cell lung cancer,1000
+hsa_circ_0043278,363,miR-203a-3p,729,osteosarcoma,997
+hsa_circ_0043949,364,hsa-miR-7161-3p,860,glioblastoma,1025
+hsa_circ_0043949,364,hsa-miR-6783-3p,861,glioblastoma,1025
+hsa_circ_0043949,364,hsa-miR-1257,862,glioblastoma,1025
+hsa_circ_0043949,364,hsamiR-140-3p,863,glioblastoma,1025
+hsa_circ_0043949,364,hsa-miR-5195-3p,864,glioblastoma,1025
+hsa_circ_0044520,365,hsa-miR-4726-5p,865,laryngeal squamous cell carcinoma,998
+hsa_circ_0044529,366,hsa-miR-4640-5p,866,laryngeal squamous cell carcinoma,998
+hsa_circ_0046264,367,miR-1245,867,lung cancer,1006
+hsa_circ_0046600,368,miR-640,868,hepatocellular carcinoma,1004
+hsa_circ_0046701,369,miR-142-3p,869,glioma,1018
+hsa_circ_0047688,370,miR-125a-3p,870,glioma,1018
+hsa_circ_0051079,371,miR-26a-5p,871,osteosarcoma,997
+hsa_circ_0051240,372,miR-637,590,ovarian cancer,1020
+hsa_circ_0051443,373,miR-331-3p,781,hepatocellular carcinoma,1004
+hsa_circ_0052112,374,miR-125a-5p,872,breast cancer,1005
+hsa_circ_0053277,375,miR-2467-3p,873,colorectal cancer,993
+hsa_circ_0055625,376,miR-106b-5p,874,colon cancer,1019
+hsa_circ_0056618,377,miR-206,730,gastric cancer,996
+hsa_circ_0056836,378,miR-766-3p,854,hepatocellular carcinoma,1004
+hsa_circ_0057481,379,miR-200c,577,laryngeal cancer,1053
+hsa_circ_0057558,380,miR-6884,875,prostate cancer,1001
+hsa_circ_0058063,381,miR-145-5p,570,bladder cancer,992
+hsa_circ_0058092,382,miR-4269,876,gastric cancer,996
+hsa_circ_0058124,383,miR-940,877,thyroid cancer,1032
+hsa_circ_0059354,384,miR-302b-3p,878,laryngeal squamous cell carcinoma,998
+hsa_circ_0059655,385,miR-338-3p,643,salivary adenoid cystic carcinoma,1054
+hsa_circ_0060060,386,miR-144-3p,879,thyroid carcinoma,1055
+hsa_circ_0060428,387,miR-375,596,osteosarcoma,997
+hsa_circ_0060456,388,miR-16-5p,829,gastric cancer,996
+hsa_circ_0060467,389,miR-361-3p,709,cervical cancer,1010
+hsa_circ_006100,390,miR-195,739,gastric cancer,996
+hsa_circ_0061140,391,miR-149-5p,661,endometrial carcinoma,1042
+hsa_circ_0061825,392,miR-326,549,breast cancer,1005
+hsa_circ_0061868,393,hsa-miR-7-5p,880,glioma,1018
+hsa_circ_0062019,394,miR-5008,881,prostate cancer,1001
+hsa_circ_0062389,395,miR-103a-3p,579,non-small cell lung cancer,1000
+hsa_circ_0067835,396,miR-1236-3p,573,colorectal cancer,993
+hsa_circ_0067934,397,miR-545,675,cervical cancer,1010
+hsa_circ_0067934,397,miR-1304,679,thyroid cancer,1032
+hsa_circ_0067934,397,miR-1324,882,hepatocellular carcinoma,1004
+hsa_circ_0067997,398,miR-515-5p,828,gastric cancer,996
+hsa_circ_0068033,399,miR-659,883,breast cancer,1005
+hsa_circ_0068871,400,miR-181a-5p,884,bladder cancer,992
+hsa_circ_0070269,401,miR-182,801,hepatocellular carcinoma,1004
+hsa_circ_0070934,402,miR-1238,813,cutaneous squamous cell carcinoma,1056
+hsa_circ_0070934,402,miR-1247-5p,885,cutaneous squamous cell carcinoma,1056
+hsa_circ_0071589,403,miR-600,845,colorectal cancer,993
+hsa_circ_0071662,404,miR-146b-3p,886,bladder cancer,992
+hsa_circ_0072083,405,miR-545-3p,887,non-small cell lung cancer,1000
+hsa_circ_0072088,406,miR-532-3p,888,colorectal cancer,993
+hsa_circ_0072309,407,miR-492,889,breast cancer,1005
+hsa_circ_0072309,407,miR-100,814,renal carcinoma,1033
+hsa_circ_0072309,407,miR-580-3p,890,non-small cell lung cancer,1000
+hsa_circ_0072387,408,miR-503-5p,758,oral squamous cell carcinoma,1015
+hsa_circ_0072391,409,miR-503-5p,758,hepatoblastoma,1050
+hsa_circ_0072995,410,miR-30c-2-3p,891,breast cancer,1005
+hsa_circ_0073237,411,miR-1183,537,glioma,1018
+hsa_circ_0074026,412,miR-1304,679,glioma,1018
+hsa_circ_0074027,413,miR-518a-5p,892,glioblastoma,1025
+hsa_circ_0074027,413,miR-185-3p,893,non-small cell lung cancer,1000
+hsa_circ_0074362,414,miR-1236-3p,573,glioma,1018
+hsa_circ_0075341,415,miR-149-5p,661,cervical cancer,1010
+hsa_circ_0075828,416,miR-1224-5p,894,bladder cancer,992
+hsa_circ_0076305,417,miR-296-5p,674,non-small cell lung cancer,1000
+hsa_circ_0078710,418,miR-31,720,hepatocellular carcinoma,1004
+hsa_circ_0078767,419,miR-330-3p,895,non-small cell lung cancer,1000
+hsa_circ_0079593,420,miR-182,801,glioma,1018
+hsa_circ_0079593,420,miR-433 ,896,glioma,1018
+hsa_circ_0080145,421,miR-29b,897,chronic myeloid leukemia,1057
+hsa_circ_0081143,422,miR-646,593,gastric cancer,996
+hsa_circ_0082374,423,let-7,898,glioma,1018
+hsa_circ_0084043,424,miR-429,832,melanoma,1023
+hsa_circ_0087862,425,miR-1253 ,899,non-small cell lung cancer,1000
+hsa_circ_0088732,426,miR-661,792,glioma,1018
+hsa_circ_0091570,427,miR-1307,900,hepatocellular carcinoma,1004
+hsa_circ_0091579,428,miR-490-3p,724,liver cancer,1009
+hsa_circ_0091581,429,miR-526b,525,hepatocellular carcinoma,1004
+hsa_circ_0091581,429,miR-526c,901,hepatocellular carcinoma,1004
+hsa_circ_0092012,430,miR-486-3p,902,laryngeal squamous cell carcinoma,998
+hsa_circ_0092303,431,miR-331-3p,781,gastric cancer,996
+hsa_circ_0092306,432,miR-197-3p,778,gastric cancer,996
+hsa_circ_0093996,433,miR-183,639,retinoblastoma,1058
+hsa_circ_009755,434,has-miR-585-5p,903,oral squamous cell carcinoma,1015
+hsa_circ_009755,434,has-miR-29a-5p,904,oral squamous cell carcinoma,1015
+hsa_circ_009755,434,has-miR-6079,905,oral squamous cell carcinoma,1015
+hsa_circ_0099999,435,miR-335-5p,822,pancreatic cancer,1008
+hsa_circ_0101432,436,miR-1258,906,hepatocellular carcinoma,1004
+hsa_circ_0101432,436,miR-622,907,hepatocellular carcinoma,1004
+hsa_circ_0102049,437,miR-1304-5p,908,osteosarcoma,997
+hsa_circ_0103552,438,miR-1236,653,breast cancer,1005
+hsa_circ_0127621,439,miR-888,909,diffuse large B-cell lymphoma,1059
+hsa_circ_0136666,440,miR-136,712,colorectal cancer,993
+hsa_circ_0136666,440,miR-1299,517,breast cancer,1005
+hsa_circ_0137008,441,miR-338-5p,782,colorectal cancer,993
+hsa_circ_0137606,442,miR-1231,575,bladder cancer,992
+hsa_circ_0141940,443,miR-29a,910,prostate cancer,1001
+hsa_circ_081069,444,miR-665,534,tongue squamous cell carcinoma,1045
+hsa_circ_100219,445,miR-485-3p,911,breast cancer,1005
+hsa_circ_100242,446,miR-145-5p,570,bladder cancer,992
+hsa_circ_100290,447,miR-203,529,acute myeloid leukemia,1012
+hsa_circ_100338,448,miR-141-3p,912,hepatocellular carcinoma,1004
+hsa_circ_100395,449,miR-1228,913,lung cancer,1006
+hsa_circ_100395,449,miR-1228,913,ovarian cancer,1020
+hsa_circ_100395,449,miR-1228,913,liver cancer,1009
+hsa_circ_101280,450,miR-375,596,hepatocellular carcinoma,1004
+hsa_circ_101555,451,miR-597-5p,914,colorectal cancer,993
+hsa_circ_103809,452,miR-620,777,hepatocellular carcinoma,1004
+hsa_circ_103973,453,miR-335,586,cervical cancer,1010
+hsa_circ_104075,454,miR-582-3p,915,hepatocellular carcinoma,1004
+hsa_circ_CSPP1,455,miR-361-5p,916,cervical cancer,1010
+hsa_circRNA_0007334,456,miR-577,835,pancreatic ductal adenocarcinoma,1013
+hsa_circRNA_0007334,456,miR-144-3p,879,pancreatic ductal adenocarcinoma,1013
+hsa_circRNA_002178,457,miR-328-3p,568,breast cancer,1005
+hsa_circRNA_008068,458,hsa-miR-145-3p,917,prostate cancer,1001
+hsa_circRNA_091420,459,hsa-miR-145-5p,918,prostate cancer,1001
+hsa_circRNA_100533,460,miR-933,919,oral squamous cell carcinoma,1015
+hsa_circRNA_100833,461,miR-498,682,lung cancer,1006
+hsa_circRNA_101764,462,hsa-miR-181,920,hepatocellular carcinoma,1004
+hsa_circRNA_101981,463,hsa-miR-145-5p,918,prostate cancer,1001
+hsa_circRNA_101996,464,hsa-miR-145-5p,918,prostate cancer,1001
+hsa_circRNA_101996,464,miR-8075,921,cervical cancer,1010
+hsa_circRNA_102336,465,miR-515-5p,828,bladder cancer,992
+hsa_circRNA_103809,466,miR-4302,922,lung cancer,1006
+hsa_circRNA_406557,467,hsa-miR-145-3p,917,prostate cancer,1001
+circCTDP1,468,miR-29a-3p,538,bladder cancer,992
+hsa_circ_0003028,469,miR-570每3p,923,liver cancer,1009
+hsa_circ_0003028,469,miR-17每3p,924,liver cancer,1009
+hsa_circ_0003028,469,miR-552每3p,925,liver cancer,1009
+circHIAT1,71,miR-195-5p,543,clear cell renal cell carcinoma,1014
+circHIAT1,71,miR-29a-3p,538,clear cell renal cell carcinoma,1014
+circHIAT1,71,miR-29c-3p,780,clear cell renal cell carcinoma,1014
+hsa_circ_0000284,73,miR-379,926,lung cancer,1006
+circHIPK3,74,miR-124,616,liver cancer,1009
+hsa_circ_0007915,470,miR-659每3p,927,liver cancer,1009
+hsa_circ_0007915,470,miR-424每5p,928,liver cancer,1009
+hsa_circ_0007915,470,miR-106a-3p,929,liver cancer,1009
+hsa_circRNA_103595,471,miR-1275,566,lung cancer,1006
+hsa_circRNA_0007874,472,miR-9,650,hepatocellular carcinoma,1004
+circMYLK,94,miR-29a-3p,538,bladder cancer,992
+hsa_circ_0092509,473,miR-448,930,osteosarcoma,997
+hsa_circ_0067934,397,miR-545,675,lung adenocarcinoma,1007
+hsa_circ_0067934,397,miR-589,677,lung adenocarcinoma,1007
+hsa_circ_0001821,474,let-7,898,lung cancer,1006
+hsa_circ_001598,475,miR-101,931,bladder cancer,992
+hsa_circ_0000554,476,miR-139-3p,633,esophageal cancer,1038
+hsa_circ_0000554,476,miR-339-5p,808,esophageal cancer,1038
+hsa_circ_0000554,476,miR-1912,932,esophageal cancer,1038
+hsa_circ_0041103,477,miR-103a-3p,579,bladder cancer,992
+hsa_circ_0041103,477,miR-107,621,bladder cancer,992
+circUBAP2,181,miR-339-5p,808,lung cancer,1006
+circUBAP2,181,miR-96-3p,933,lung cancer,1006
+circUBAP2,181,miR-135b-3p,934,lung cancer,1006
+hsa_circ_0056288,478,miR-125b-5p,935,osteosarcoma,997
+circ-ITCH,78,miR-7,518,lung cancer,1006
+circ-ITCH,78,miR-214,625,lung cancer,1006
+circ-ITCH,78,miR-7,518,colorectal cancer,993
+circ-ITCH,78,miR-17,626,colorectal cancer,993
+circ-ITCH,78,miR-20a,936,colorectal cancer,993
+circ-ITCH,78,miR-214,625,colorectal cancer,993
+circ-ITCH,78,miR-128,937,colorectal cancer,993
+circ-ITCH,78,miR-216b,938,colorectal cancer,993
+circHIPK3,74,miR-124,616,bladder urothelial carcinoma,1060
+circHIPK3,74,miR-124,616,breast cancer,1005
+circHIPK3,74,miR-124,616,kidney clear cell carcinoma,1061
+hsa_circ_0000594,479,miR-217,540,glioma,1018
+hsa_circ_0000977,229,miR-874-3p,939,pancreatic ductal adenocarcinoma,1013
+circCCDC66,480,miR-33b,940,pancreatic cancer,1008
+circCCDC66,480,miR-93,800,pancreatic cancer,1008
+circCCDC66,480,miR-33b,940,breast cancer,1005
+circCCDC66,480,miR-93,800,breast cancer,1005
+circCCDC66,480,miR-33b,940,cervical cancer,1010
+circCCDC66,480,miR-93,800,cervical cancer,1010
+hsa_circ_0001946,259,miR-7,518,gastric cancer,996
+hsa_circ_0001946,259,miR-7,518,hepatocellular carcinoma,1004
+hsa_circ_0001982,481,miR-143,612,breast cancer,1005
+hsa_circ_0002768,482,miR-29a,910,bladder cancer,992
+hsa_circ_0005239,483,miR-34a,551,breast cancer,1005
+hsa_circ_0005986,484,miR-129-5p,941,hepatocellular carcinoma,1004
+hsa_circ_000839,485,miR-200b,576,hepatocellular carcinoma,1004
+hsa_circ_0013958,486,miR-134,942,lung adenocarcinoma,1007
+hsa_circ_0015278,487,miR-141-3p,912,papillary thyroid carcinoma,1016
+hsa_circ_0015278,487,miR-200a-3p,742,papillary thyroid carcinoma,1016
+hsa_circ_001569,329,miR-145,559,colorectal cancer,993
+hsa_circ_0020397,488,miR-138,943,colorectal cancer,993
+hsa_circ_0043256,489,miR-1252,528,non-small cell lung cancer,1000
+hsa_circ_0071410,490,miR-9-5p,944,liver cancer,1009
+hsa_circRNA_086376,491,miR-7,518,colorectal cancer,993
+hsa_circ_0000284,73,miR-379,926,non-small cell lung cancer,1000
+hsa_circRNA_102761,492,miR-7,518,colorectal cancer,993
+hsa_circRNA_105055,493,miR-7,518,colorectal cancer,993
+circPAN3,494,miR-135-5p,945,acute myeloid leukemia,1012
+circRNA_100290,151,miR-203,529,acute myeloid leukemia,1012
+circPRMT5,495,miR-30c,678,bladder cancer,992
+circEPSTI1,52,miR-4753,752,triple-negative breast cancer,994
+circEPSTI1,52,miR-6809,753,triple-negative breast cancer,994
+hsa_circ_0000073,496,miR-143,612,breast cancer,1005
+hsa_circ_0000911,497,miR-1271,527,breast cancer,1005
+hsa_circ_0008717,315,miR-1271,527,breast cancer,1005
+hsa_circRNA_100833,461,miR-765,946,cutaneous squamous cell carcinoma,1056
+hsa_circRNA_100833,461,miR-495-3p,947,cutaneous squamous cell carcinoma,1056
+hsa_circRNA_100833,461,miR-665,534,cutaneous squamous cell carcinoma,1056
+hsa_circRNA_100833,461,miR-139b-5p,948,cutaneous squamous cell carcinoma,1056
+hsa_circRNA_100834,498,miR-873-5p,949,cutaneous squamous cell carcinoma,1056
+hsa_circRNA_100834,498,miR-23b-5p,950,cutaneous squamous cell carcinoma,1056
+hsa_circRNA_100834,498,miR-181a-2-3p,951,cutaneous squamous cell carcinoma,1056
+hsa_circRNA_100834,498,miR-93-3p,952,cutaneous squamous cell carcinoma,1056
+hsa_circRNA_100834,498,miR-299-3p,953,cutaneous squamous cell carcinoma,1056
+hsa_circ_0000337,499,miR-670-5p,954,esophageal squamous cell carcinoma,1036
+circNF1 ,500,miR-16,955,gastric cancer,996
+circSHKBP1,501,miR-544a,841,glioma,1018
+circSHKBP1,501,miR-379,926,glioma,1018
+hsa_circ_0076248,502,miR-181a,956,glioma,1018
+has_circ_0015756,503,miR-1250-3p,847,hepatoblastoma,1050
+hsa_circ_0103809,504,miR-490-5p,957,hepatocellular carcinoma,1004
+hsa_circRNA_001654,505,miR-520a-5p,958,Infantile hemangioma,1062
+hsa_circRNA_100933,506,miR-1298-3p,959,Infantile hemangioma,1062
+hsa_circRNA_100933,506,miR-892b,588,Infantile hemangioma,1062
+hsa_circRNA_100933,506,miR-2113,960,Infantile hemangioma,1062
+hsa_circRNA_100933,506,miR-137,961,Infantile hemangioma,1062
+hsa_circRNA_100933,506,miR-514a-5p,684,Infantile hemangioma,1062
+hsa_circRNA_102116,507,miR-518f-3p,962,Infantile hemangioma,1062
+hsa_circRNA_104310,508,miR-499a-3p,963,Infantile hemangioma,1062
+hsa_circRNA_104310,508,miR-1271-3p,964,Infantile hemangioma,1062
+hsa_circRNA_104310,508,miR-216a-3p,965,Infantile hemangioma,1062
+hsa_circRNA_104310,508,miR-197-3p,778,Infantile hemangioma,1062
+hsa_circRNA_104310,508,miR-489-3p ,966,Infantile hemangioma,1062
+hsa_circ_0000729,509,miR-375,596,lung adenocarcinoma,1007
+hsa_circ_0020123,339,miR-144,967,non small cell lung cancer,1063
+circ-ITCH,78,miR-22-3p,587,papillary thyroid cancer,1024
+hsa_circRNA_004662,510,hsa-miR-4520-2-3p,968,papillary thyroid carcinoma,1016
+hsa_circRNA_004662,510,hsa-miR-208b-5p,969,papillary thyroid carcinoma,1016
+hsa_circRNA_004662,510,hsa-miR-4713-5p,970,papillary thyroid carcinoma,1016
+hsa_circRNA_004662,510,hsa-miR-4659b-3p,971,papillary thyroid carcinoma,1016
+hsa_circRNA_014213,511,hsa-miR-6812-5p,972,papillary thyroid carcinoma,1016
+hsa_circRNA_014213,511,hsa-miR-6819-5p,973,papillary thyroid carcinoma,1016
+hsa_circRNA_014213,511,hsa-miR-608,974,papillary thyroid carcinoma,1016
+hsa_circRNA_014213,511,hsa-miR-5572,975,papillary thyroid carcinoma,1016
+hsa_circRNA_014213,511,hsa-miR-5088-5p,976,papillary thyroid carcinoma,1016
+hsa_circRNA_046843,512,hsa-miR-4524a-5p,977,papillary thyroid carcinoma,1016
+hsa_circRNA_046843,512,hsa-miR-4753-3p,978,papillary thyroid carcinoma,1016
+hsa_circRNA_046843,512,hsa-miR-3911,979,papillary thyroid carcinoma,1016
+hsa_circRNA_046843,512,hsa-miR-876-5p,980,papillary thyroid carcinoma,1016
+hsa_circRNA_046843,512,hsa-miR-942-5p,981,papillary thyroid carcinoma,1016
+hsa_circRNA_061346,513,hsa-miR-4778-3p,982,papillary thyroid carcinoma,1016
+hsa_circRNA_061346,513,hsa-miR-5196-3p,983,papillary thyroid carcinoma,1016
+hsa_circRNA_061346,513,hsa-miR-5193,984,papillary thyroid carcinoma,1016
+hsa_circRNA_061346,513,hsa-miR-877-3p,985,papillary thyroid carcinoma,1016
+hsa_circRNA_061346,513,hsa-miR-103a-2-5p,986,papillary thyroid carcinoma,1016
+hsa_circRNA_101408,514,hsa-miR-136-5p,987,papillary thyroid carcinoma,1016
+hsa_circRNA_101408,514,hsa-miR-500a-5p,988,papillary thyroid carcinoma,1016
+hsa_circRNA_101408,514,hsa-miR-578,989,papillary thyroid carcinoma,1016
+hsa_circRNA_101408,514,hsa-miR-34b-5p,990,papillary thyroid carcinoma,1016
+hsa_circRNA_101408,514,hsa-miR-449c-5p,991,papillary thyroid carcinoma,1016
